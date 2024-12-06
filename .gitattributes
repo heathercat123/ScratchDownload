@@ -1,2 +1,2 @@
-/download/* filter=lfs diff=lfs merge=lfs -text
-/downloads/* filter=lfs diff=lfs merge=lfs -text
+/download/** filter=lfs diff=lfs merge=lfs -text
+/downloads/** filter=lfs diff=lfs merge=lfs -text
