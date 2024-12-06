@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
+    <versionNumber>461</versionNumber>
+    <url>http://cdn.scratch.mit.edu/scratchr2/static/sa/Scratch-461.air</url>
+    <description>Scratch 2 Offline Editor</description>
+</update>
