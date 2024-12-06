@@ -1,6 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<update xmlns="http://ns.adobe.com/air/framework/update/description/2.5">
-    <versionNumber>461</versionNumber>
-    <url>http://cdn.scratch.mit.edu/scratchr2/static/sa/Scratch-461.air</url>
-    <description>Scratch 2 Offline Editor</description>
-</update>
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a113a35f53ea27dcdc7235c1c415fb5ca34e8ccac5995edfc5c4cdc55a14fd1
+size 300
